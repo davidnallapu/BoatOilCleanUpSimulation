@@ -1,5 +1,5 @@
 # BoatOilCleanUpSimulation
- Multithreaded GUI of an Autonomous Boat cleaning up Oil Spill by <a href="linkedin.com/in/davidnallapu">David Nallapu</a>.
+ Multithreaded GUI of an Autonomous Boat cleaning up Oil Spill by <a href="https://www.linkedin.com/in/davidnallapu">David Nallapu</a>.
 
 <br />
 <p align="center">
