@@ -65,14 +65,13 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 
 <!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
-
-
-
+## UML Diagram
+<img src="UML Diagram/UML.pdf" alt="Logo" width="400" height="400">
 <!-- CONTRIBUTING -->
-## Contributing
+## Sequence Diagram
+<img src="Images/1.png" alt="Logo" width="400" height="400">
+<img src="Images/1.png" alt="Logo" width="400" height="400">
+<!-- CONTRIBUTING -->
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
