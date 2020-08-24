@@ -1,7 +1,5 @@
 # BoatOilCleanUpSimulation
- Multithreaded GUI of an Autonomous Boat cleaning up Oil Spill.
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
+ Multithreaded GUI of an Autonomous Boat cleaning up Oil Spill by <a href="linkedin.com/in/davidnallapu">David Nallapu</a>.
 
 <br />
 <p align="center">
@@ -58,18 +56,4 @@ Boat cleans up the oil in each grid.
 Boat refuels when the Load Capacity or Battery Capacity have exhausted. This can be seen in the statisitics panel.
 <img src="Images/3.png" alt="Logo" width="400" height="400">
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<!-- CONTACT -->
-## Contact
-
-davidsam1998@gmail.com - email
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/davidsnallapu
-[product-screenshot]: Images/1.png
