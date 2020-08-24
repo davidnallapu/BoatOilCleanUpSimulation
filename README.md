@@ -39,16 +39,16 @@ To get a local copy up and running, download the ABoat.jar file. Java JDK must b
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 <br>
-Boat starts from the left corner while the oil starts spilling from the center of the grid.
+* Boat starts from the left corner while the oil starts spilling from the center of the grid.
+<br>
 <img src="Images/1.png" alt="Logo" width="400" height="400">
 <br>
-Boat cleans up the oil in each grid.
+*  Boat cleans up the oil in each grid.
 <br>
 <img src="Images/2.png" alt="Logo" width="400" height="400">
 <br>
-Boat refuels when the Load Capacity or Battery Capacity have exhausted. This can be seen in the statisitics panel.
+* Boat refuels when the Load Capacity or Battery Capacity have exhausted. This can be seen in the statisitics panel.
 <br>
 <img src="Images/3.png" alt="Logo" width="400" height="400">
 
