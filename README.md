@@ -27,16 +27,9 @@
 * [About the Project](#about-the-project)
 * [Getting Started](#getting-started)
 * [Usage](#usage)
-* [Contact](#contact)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -47,13 +40,16 @@ To get a local copy up and running, download the ABoat.jar file. Java JDK must b
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
+<br>
 Boat starts from the left corner while the oil starts spilling from the center of the grid.
 <img src="Images/1.png" alt="Logo" width="400" height="400">
-
+<br>
 Boat cleans up the oil in each grid.
+<br>
 <img src="Images/2.png" alt="Logo" width="400" height="400">
+<br>
 Boat refuels when the Load Capacity or Battery Capacity have exhausted. This can be seen in the statisitics panel.
+<br>
 <img src="Images/3.png" alt="Logo" width="400" height="400">
 
 
