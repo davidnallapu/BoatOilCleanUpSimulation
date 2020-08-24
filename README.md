@@ -27,18 +27,9 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
 * [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -59,19 +50,13 @@ To get a local copy up and running, download the ABoat.jar file. Java JDK must b
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
+Boat starts from the left corner while the oil starts spilling from the center of the grid.
 <img src="Images/1.png" alt="Logo" width="400" height="400">
+
+Boat cleans up the oil in each grid.
 <img src="Images/2.png" alt="Logo" width="400" height="400">
+Boat refuels when the Load Capacity or Battery Capacity have exhausted. This can be seen in the statisitics panel.
 <img src="Images/3.png" alt="Logo" width="400" height="400">
-
-
-<!-- ROADMAP -->
-## UML Diagram
-<img src="UML Diagram/UML.pdf" alt="Logo" width="400" height="400">
-<!-- CONTRIBUTING -->
-## Sequence Diagram
-<img src="Images/1.png" alt="Logo" width="400" height="400">
-<img src="Images/1.png" alt="Logo" width="400" height="400">
-<!-- CONTRIBUTING -->
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -81,31 +66,10 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
-Project Link: [https://github.com/github_username/repo](https://github.com/github_username/repo)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
+davidsam1998@gmail.com - email
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/davidsnallapu
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: Images/1.png
